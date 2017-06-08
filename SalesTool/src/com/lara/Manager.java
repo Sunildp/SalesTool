@@ -6,6 +6,7 @@ public class Manager {
 
 		Test test = new Test();
 		test.wish("Sunil");
+		System.out.println("Welcome to India");
 	}
 
 }
